@@ -12,7 +12,7 @@ end
 
 def words_five_letters_long(text)
   array = text.split(" ")
-  
+  array = 
 
 end
 
