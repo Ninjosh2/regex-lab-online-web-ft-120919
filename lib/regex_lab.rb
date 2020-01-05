@@ -6,7 +6,8 @@ else
   end
 end
 
-def starts_with_a_vowel?()
+def starts_with_a_vowel?(word_2)
+  if word.match(/^[])
 
 def words_starting_with_un_and_ending_with_ing(text)
 
