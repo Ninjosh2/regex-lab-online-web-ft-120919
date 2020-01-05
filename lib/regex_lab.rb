@@ -12,7 +12,7 @@ end
 
 def words_five_letters_long(text)
   array = text.split(" ")
-  array.grep(/\b\w)
+  array.grep(/\b\w{5})
 
 end
 
